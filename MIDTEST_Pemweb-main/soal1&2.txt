@@ -1,0 +1,22 @@
+Nama : Sadam Daffa Ramadhan
+Kelas : IF 22 C
+NIM : 22416255201060
+
+*SOAL NOMOR 1
+Framework adalah kerangka kerja atau struktur dasar yang menyediakan alat dan aturan untuk membangun sesuatu dengan lebih efisien.
+Misalkan seperti pondasi rumah yang sudah siap, memudahkan dalam membangun tanpa harus membuat semuanya dari awal.
+
+
+
+*SOAL NOMOR 2
+1. Sebutkan Tema proyek yang sedang digarap : Apotek
+2. Sebutkan anggota dari proyek yang sedang di garap, 
+   berikut dengan jobdesk dari masing masing anggota:
+   1. Renaldi Aldi / 22416255201078 : Progammer
+   2. Tyo Sigit Pramulyan / 22416255201119 : Dokumentasi dan Laporan
+   3. Sadam Daffa Ramadhan / 22416255201060 : Desain UI / UML
+
+3. Jelaskan Permasalahan yang di dapat setelah hasil wawancara dengan client,
+   beserta hipotesa solusi yang kalian usung! :
+   • Permasalah dari client adalah manualnya penginputan stok dan laporan obat dari apotek tersebut,
+   • setelah kami mewawancarai client kami mendapatkan solusi untuk membantu atau mempermudah system penginputan, permasalahan yang di dapati oleh client terdapat pada beberapa system pengerjaan/penginputan yang manual, dan setelah kami berunding kami mendapatkan win solution untuk membantu membuat system progam web untuk client tersebut
